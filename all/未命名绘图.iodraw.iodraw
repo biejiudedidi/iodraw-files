@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-329" value="多图图神经网络嵌入学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="10" width="200" height="850" as="geometry" />
+        </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-328" value="多源异构网络数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="-60" width="1030" height="850" as="geometry" />
         </mxCell>
@@ -23,15 +26,17 @@
         <mxCell id="E3mF_hBFCMbu4r6djBO5-330" value="药物-靶标注意力&lt;div&gt;交叉注意力机制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="285" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-329" value="多图图神经网络嵌入学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="10" width="200" height="850" as="geometry" />
-        </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-240" value="多视角靶标相似性网络" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="50" y="570" width="490" height="220" as="geometry" />
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-241">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="400.42857142857133" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-241">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1321.9046456473213" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-241" value="药物-蛋白二分网络（一直相互作用的二分网络）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
