@@ -409,7 +409,7 @@
         <mxCell id="E3mF_hBFCMbu4r6djBO5-221" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="807" y="500" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-223" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-223" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="807" y="460" width="23" height="60" as="geometry" />
         </mxCell>
       </root>
