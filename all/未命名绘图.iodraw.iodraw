@@ -394,22 +394,11 @@
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-207" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#00CC66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="154.66" as="sourcePoint" />
-            <mxPoint x="784" y="154.66" as="targetPoint" />
+            <mxPoint x="670" y="480" as="sourcePoint" />
+            <mxPoint x="764" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-208" value="激活函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3mF_hBFCMbu4r6djBO5-207">
-          <mxGeometry x="-0.0629" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-209" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#00CC66;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="164.66" as="sourcePoint" />
-            <mxPoint x="794" y="164.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-210" value="激活函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3mF_hBFCMbu4r6djBO5-209">
           <mxGeometry x="-0.0629" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
