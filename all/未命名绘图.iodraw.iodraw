@@ -356,11 +356,6 @@
             <mxPoint x="560" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-199">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-199" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="641" y="450" width="20" height="20" as="geometry" />
         </mxCell>
@@ -412,7 +407,7 @@
           <mxGeometry x="807" y="460" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-221" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="651" y="460" width="20" height="20" as="geometry" />
+          <mxGeometry x="807" y="500" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
