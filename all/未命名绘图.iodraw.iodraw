@@ -510,6 +510,9 @@
         <mxCell id="E3mF_hBFCMbu4r6djBO5-254" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="940" y="360" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-255" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="635" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
