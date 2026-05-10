@@ -738,8 +738,8 @@
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-322" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1161" y="620" as="sourcePoint" />
-            <mxPoint x="1241" y="620" as="targetPoint" />
+            <mxPoint x="1190" y="638.57" as="sourcePoint" />
+            <mxPoint x="1270" y="638.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-329" value="多图图神经网络嵌入学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
