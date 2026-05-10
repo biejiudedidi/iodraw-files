@@ -758,7 +758,7 @@
             <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-334" value="药物-靶标注意力&lt;div&gt;交叉注意力机制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-334" value="自注意力&lt;div&gt;自我注意力机制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="460" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
