@@ -10,6 +10,9 @@
         <mxCell id="E3mF_hBFCMbu4r6djBO5-2" value="图结构与GCN模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="311" y="52" width="602" height="784" as="geometry" />
         </mxCell>
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-3" value="药物与蛋白实体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="181" height="844" as="geometry" />
+        </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-5" value="药物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="475" width="131" height="369" as="geometry" />
         </mxCell>
@@ -21,6 +24,9 @@
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-8" value="Drug 3" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="748" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-9" value="Protein A" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="79" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-10" value="Protein B" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="209" width="80" height="80" as="geometry" />
@@ -96,13 +102,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-30" value="输入pp" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.34;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" target="E3mF_hBFCMbu4r6djBO5-13">
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-30" value="输入pp" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.34;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-9" target="E3mF_hBFCMbu4r6djBO5-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="176" y="98" />
               <mxPoint x="311" y="98" />
             </Array>
-            <mxPoint x="148.31305140884604" y="107.50608457734609" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-31" value="输入pp" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.17;entryX=0;entryY=0.82;rounded=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-10" target="E3mF_hBFCMbu4r6djBO5-13">
@@ -137,13 +142,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3mF_hBFCMbu4r6djBO5-35" value="输入dp" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.84;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" target="E3mF_hBFCMbu4r6djBO5-14">
+        <mxCell id="E3mF_hBFCMbu4r6djBO5-35" value="输入dp" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.84;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-9" target="E3mF_hBFCMbu4r6djBO5-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="176" y="163" />
               <mxPoint x="311" y="163" />
             </Array>
-            <mxPoint x="143.15394696302587" y="141.37891420004246" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-36" value="输入dp" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.82;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="E3mF_hBFCMbu4r6djBO5-10" target="E3mF_hBFCMbu4r6djBO5-14">
