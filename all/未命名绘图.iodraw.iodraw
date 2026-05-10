@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E3mF_hBFCMbu4r6djBO5-349" value="注意力融合与深度交互" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1250" width="810" height="750" as="geometry" />
+          <mxGeometry x="1250" width="810" height="860" as="geometry" />
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-329" value="多图图神经网络嵌入学习" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="1000" y="10" width="200" height="850" as="geometry" />
