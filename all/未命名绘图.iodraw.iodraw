@@ -38,10 +38,10 @@
           <mxGeometry x="283.5" y="110.5" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-11" value="图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="352.5" width="140" height="49" as="geometry" />
+          <mxGeometry x="417" y="360" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-12" value="第1层GNN&#xa;消息传递+特征聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="233" y="466" width="196" height="66" as="geometry" />
+          <mxGeometry x="233" y="466" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-13" value="第2层GNN&#xa;节点更新+特征提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="233" y="582.5" width="196" height="66" as="geometry" />
