@@ -7,7 +7,7 @@
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-1" value="第三层：读出与预测" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="20" y="520" width="550" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-3" value="第二层：图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-3" value="图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="270" width="550" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-5" value="第一层：模型输入" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
