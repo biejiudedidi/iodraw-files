@@ -11,7 +11,7 @@
           <mxGeometry x="200" y="988" width="307" height="233" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-3" value="第二层：图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="317" width="500" height="497" as="geometry" />
+          <mxGeometry x="20" y="317" width="500" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-4" value="GNN层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="182" y="441" width="417" height="349" as="geometry" />
