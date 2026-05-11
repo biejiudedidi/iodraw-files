@@ -25,7 +25,7 @@
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-8" value="蛋白质序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="110.5" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-9" target="2Vdc7_XAV1q-kd4gRDDr-10">
+        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=isometricEdgeStyle;elbow=vertical;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-9" target="2Vdc7_XAV1q-kd4gRDDr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-9" value="生物关联网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
