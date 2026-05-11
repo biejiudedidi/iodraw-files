@@ -43,7 +43,7 @@
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#EA6B66;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-11" target="2Vdc7_XAV1q-kd4gRDDr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-11" value="图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-11" value="图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="283.5" y="360" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-12" target="2Vdc7_XAV1q-kd4gRDDr-13">
