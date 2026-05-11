@@ -37,8 +37,11 @@
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-10" value="多源特征输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="283.5" y="110.5" width="140" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-11" value="图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="342" width="204" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-12" value="第1层GNN&#xa;消息传递+特征聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="196" height="66" as="geometry" />
+          <mxGeometry x="233" y="466" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-13" value="第2层GNN&#xa;节点更新+特征提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="233" y="582.5" width="196" height="66" as="geometry" />
@@ -75,6 +78,11 @@
             <Array as="points">
               <mxPoint x="392" y="1105" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-10" target="2Vdc7_XAV1q-kd4gRDDr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-14" target="2Vdc7_XAV1q-kd4gRDDr-15">
