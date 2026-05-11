@@ -8,7 +8,7 @@
           <mxGeometry x="1323" y="-1090" width="450" height="860" as="geometry" />
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-346" value="多层感知机&lt;div&gt;全连接神经网路&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="1343" y="-847" width="170" height="417" as="geometry" />
+          <mxGeometry x="1343" y="-847" width="170" height="333" as="geometry" />
         </mxCell>
         <mxCell id="E3mF_hBFCMbu4r6djBO5-349" value="注意力融合与深度交互" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="459" y="-1090" width="830" height="860" as="geometry" />
