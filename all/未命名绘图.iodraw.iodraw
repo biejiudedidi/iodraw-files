@@ -11,7 +11,7 @@
           <mxGeometry x="30" y="260" width="550" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-5" value="模型输入" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="550" height="230" as="geometry" />
+          <mxGeometry x="30" y="10" width="490" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;strokeColor=#00CC66;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-7" target="2Vdc7_XAV1q-kd4gRDDr-10">
           <mxGeometry relative="1" as="geometry" />
