@@ -41,7 +41,7 @@
           <mxGeometry x="237" y="466" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-13" value="第2层GNN&#xa;节点更新+特征提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303" y="582" width="196" height="66" as="geometry" />
+          <mxGeometry x="233" y="582.5" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-14" value="第3层GNN&#xa;深度特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="257" y="699" width="156" height="66" as="geometry" />
