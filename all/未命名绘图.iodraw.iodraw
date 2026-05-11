@@ -38,7 +38,7 @@
           <mxGeometry x="233" y="342" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-12" value="第1层GNN&#xa;消息传递+特征聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="368" y="466" width="196" height="66" as="geometry" />
+          <mxGeometry x="237" y="466" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-13" value="第2层GNN&#xa;节点更新+特征提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="303" y="582" width="196" height="66" as="geometry" />
@@ -78,14 +78,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="466" y="416" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-11" target="2Vdc7_XAV1q-kd4gRDDr-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="258" y="416" />
-              <mxPoint x="258" y="674" />
             </Array>
           </mxGeometry>
         </mxCell>
