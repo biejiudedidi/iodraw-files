@@ -22,6 +22,9 @@
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-7" value="药物分子图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="140" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vdc7_XAV1q-kd4gRDDr-8" target="2Vdc7_XAV1q-kd4gRDDr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-8" value="蛋白质序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="110.5" width="140" height="49" as="geometry" />
         </mxCell>
