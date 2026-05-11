@@ -7,9 +7,6 @@
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-1" value="第三层：读出与预测" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="20" y="550" width="550" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-2" value="输出节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="988" width="307" height="233" as="geometry" />
-        </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-3" value="第二层：图神经网络特征学习" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="550" height="230" as="geometry" />
         </mxCell>
@@ -65,16 +62,7 @@
           <mxGeometry x="70" y="632" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2Vdc7_XAV1q-kd4gRDDr-17" value="预测输出&#xa;节点/图级分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1130" width="164" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="2Vdc7_XAV1q-kd4gRDDr-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.99;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" target="2Vdc7_XAV1q-kd4gRDDr-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="278" y="963" />
-              <mxPoint x="278" y="1105" />
-            </Array>
-            <mxPoint x="306.42857142857133" y="939" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="283.5" y="620" width="164" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
